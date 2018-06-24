@@ -40,4 +40,4 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 ## Authors
 
-* **Sharif Chowdhury** - *main work* - [vajin1125](https://github.com/techsharif)
+* **Sharif Chowdhury** - *main work* - [techsharif](https://github.com/techsharif)
